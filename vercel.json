@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/analyze/index.py": {
+      "runtime": "python3.12"
+    }
+  },
+  "rewrites": [
+    { "source": "/api/analyze", "destination": "/api/analyze/index.py" }
+  ]
+}
