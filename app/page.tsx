@@ -331,7 +331,7 @@ export default function Home() {
         </p>
         <iframe
           className={s.notebookFrame}
-          src="https://nbviewer.org/github/YOUR_USER/YOUR_REPO/blob/main/visual_encoding_leakage_v2.ipynb"
+          src="https://nbviewer.org/github/laurenx1/qr-leakage/blob/main/visual_encoding_leakage_v2.ipynb"
           title="QR Leakage Notebook"
           sandbox="allow-scripts allow-same-origin"
         />
