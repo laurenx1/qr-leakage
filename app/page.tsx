@@ -327,7 +327,7 @@ export default function Home() {
           <h2>Full notebook</h2>
         </div>
         <p className={s.grey} style={{ marginBottom: "1rem", fontSize: "0.8rem" }}>
-          Rendered via nbviewer — replace the URL below with your public GitHub notebook path.
+          Rendered via nbviewer.
         </p>
         <iframe
           className={s.notebookFrame}
